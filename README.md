@@ -2,50 +2,67 @@
 
 # Personal Portfolio Website
 
-A modern and responsive personal portfolio website designed to showcase professional skills, projects, achievements, and web development experience. Built using HTML, CSS, and JavaScript with a focus on clean design, performance, and user experience.
+A modern and responsive personal portfolio website built using HTML, CSS, and JavaScript. The portfolio showcases professional skills, projects, education, experience, and contact information through an attractive and interactive user interface.
 
 ## Features
 
-### Professional Portfolio
-- Modern hero section
-- Professional profile showcase
-- About Me section
-- Education timeline
-- Experience section
-
-### Skills Showcase
-- Frontend Development Skills
-- Responsive Design Skills
-- UI/UX Design Knowledge
-- JavaScript Development
-
-### Projects Section
-- Featured Projects Display
-- Project Descriptions
-- Technology Tags
-- Interactive Project Cards
-
-### User Experience
-- Fully Responsive Design
+- Modern Responsive Design
+- Professional Hero Section
+- About Me Section
+- Skills Showcase
+- Project Portfolio
+- Contact Section
 - Smooth Scrolling Navigation
-- Interactive Hover Effects
-- Modern Animations
-- Mobile-Friendly Interface
-- Clean and Professional Layout
-
-### Contact Section
-- Contact Information
-- Email Integration
-- Social Media Links
-- Professional Networking Access
+- Interactive UI Effects
+- Mobile Friendly Layout
+- Clean and Modern User Experience
 
 ## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-- Responsive Web Design
-- Modern UI/UX Principles
+
+## Sections Included
+
+### Home
+- Professional Introduction
+- Hero Banner
+- Call To Action Buttons
+
+### About Me
+- Personal Background
+- Education Information
+- Professional Summary
+
+### Skills
+- Frontend Development Skills
+- Web Technologies
+- Technical Expertise
+
+### Projects
+- Featured Projects Showcase
+- Project Descriptions
+- Technology Tags
+
+### Contact
+- Email Information
+- Social Links
+- Professional Contact Options
+
+## How to Run
+
+1. Download or clone the repository.
+2. Open the project folder.
+3. Locate the `index.html` file.
+4. Double-click the file to open it in your browser.
+
+### Alternative Method
+
+1. Open the project folder in Visual Studio Code.
+2. Install the Live Server extension.
+3. Right-click on `index.html`.
+4. Select **Open with Live Server**.
 
 ## Project Structure
 
@@ -53,71 +70,31 @@ A modern and responsive personal portfolio website designed to showcase professi
 PRODIGY_WD_04/
 │
 ├── index.html
-├── README.md
+└── README.md
 ```
-
-## How to Run
-
-### Method 1: Open Directly
-
-1. Download or clone the repository.
-2. Open the project folder.
-3. Locate `index.html`.
-4. Double-click the file.
-5. The portfolio website will open in your default browser.
-
-### Method 2: Visual Studio Code
-
-1. Open the project folder in VS Code.
-2. Install the Live Server extension.
-3. Right-click on `index.html`.
-4. Select **Open with Live Server**.
-5. The portfolio website will launch in your browser.
-
-## Sections Included
-
-### Home
-- Introduction
-- Professional Headline
-- Quick Overview
-
-### About Me
-- Personal Background
-- Education
-- Career Objectives
-
-### Skills
-- Technical Skills
-- Development Tools
-- Web Technologies
-
-### Projects
-- Portfolio Projects
-- Development Work
-- Project Highlights
-
-### Contact
-- Email Information
-- Social Links
-- Professional Contact Details
 
 ## Learning Outcomes
 
 - Responsive Web Design
-- UI/UX Design Principles
-- Portfolio Development
-- HTML Structure Design
-- CSS Styling Techniques
+- Modern UI/UX Design
+- HTML5 Structure
+- CSS3 Styling
 - JavaScript Interactivity
-- Professional Website Development
+- Portfolio Development
+- Website Optimization
 
 ## Task Objective
 
-Build a personal portfolio website that showcases skills, projects, achievements, education, and professional experience while maintaining a visually appealing and responsive design.
+Build a personal portfolio website that showcases skills, projects, accomplishments, and professional experience while maintaining an attractive and responsive design.
+
+## Connect With Me
+
+- GitHub: https://github.com/AnujLandge
+- Email: anuj.landge007@gmail.com
 
 ## Author
 
-Anuj Landge
+**Anuj Landge**
 
 Web Development Intern
 
